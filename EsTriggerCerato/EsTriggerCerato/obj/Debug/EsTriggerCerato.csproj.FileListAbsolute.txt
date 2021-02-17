@@ -1,0 +1,10 @@
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\bin\Debug\EsTriggerCerato.exe.config
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\bin\Debug\EsTriggerCerato.exe
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\bin\Debug\EsTriggerCerato.pdb
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.csprojAssemblyReference.cache
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.Form1.resources
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.Properties.Resources.resources
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.csproj.GenerateResource.cache
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.csproj.CoreCompileInputs.cache
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.exe
+D:\IO\Scuola\5 Superiore\Informatica\Beliardo\Trigger\EsTriggerCerato\EsTriggerCerato\obj\Debug\EsTriggerCerato.pdb
